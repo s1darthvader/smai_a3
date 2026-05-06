@@ -8,7 +8,7 @@ This repository contains the implementation of a custom **Convolutional Neural N
 Experience the real-time recognition system here: 
 **[Hugging Face Space](https://huggingface.co/spaces/siddharth2504/bangalekha)**
 
-![BanglaLekha Demo](demop..gif)
+![BanglaLekha Demo](demo.gif)
 
 ---
 
